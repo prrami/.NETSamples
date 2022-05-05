@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SeriLogSample/.vs/SeriLogSample
+/SeriLogSample/SeriLogSample/bin/Debug/netcoreapp3.1
+/SeriLogSample/SeriLogSample/obj
+/WebApiDemo/bin
+/WebApiDemo/obj
